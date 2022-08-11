@@ -1,2 +1,7 @@
 # newegg-scraper
-by suing beautifull soup and re
+install libraries
+panda
+openpyxl
+beautifulsoup4
+requests
+by using beautifull soup
